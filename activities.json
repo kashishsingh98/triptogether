@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rishikesh_adventure",
+    "destination_id": "rishikesh",
+    "name": "Sample guided adventure session",
+    "interests": ["adventure"],
+    "duration_hours": 3
+  },
+  {
+    "id": "rishikesh_cafe",
+    "destination_id": "rishikesh",
+    "name": "Sample riverside café visit",
+    "interests": ["cafés", "relaxation"],
+    "duration_hours": 2
+  },
+  {
+    "id": "rishikesh_relaxation",
+    "destination_id": "rishikesh",
+    "name": "Sample relaxed riverside walk",
+    "interests": ["relaxation"],
+    "duration_hours": 1.5
+  },
+  {
+    "id": "jaipur_sightseeing",
+    "destination_id": "jaipur",
+    "name": "Sample heritage sightseeing session",
+    "interests": ["sightseeing"],
+    "duration_hours": 3
+  },
+  {
+    "id": "jaipur_cafe",
+    "destination_id": "jaipur",
+    "name": "Sample café visit",
+    "interests": ["cafés", "relaxation"],
+    "duration_hours": 2
+  },
+  {
+    "id": "jaipur_relaxation",
+    "destination_id": "jaipur",
+    "name": "Sample relaxed evening stroll",
+    "interests": ["relaxation"],
+    "duration_hours": 1
+  }
+]

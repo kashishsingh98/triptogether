@@ -1,0 +1,41 @@
+[
+  {
+    "id": "rishikesh",
+    "name": "Rishikesh",
+    "interests": ["adventure", "cafés", "relaxation"],
+    "return_transport_per_person_inr": 2200,
+    "accommodation_per_person_per_night_inr": 1200,
+    "food_per_person_per_day_inr": 700,
+    "activities_per_person_per_day_inr": 600,
+    "travel_hours_each_way": 6,
+    "transport_mode": "train",
+    "overnight_travel": false,
+    "accommodation_has_wifi": true
+  },
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "interests": ["sightseeing", "cafés", "relaxation"],
+    "return_transport_per_person_inr": 1800,
+    "accommodation_per_person_per_night_inr": 1400,
+    "food_per_person_per_day_inr": 800,
+    "activities_per_person_per_day_inr": 400,
+    "travel_hours_each_way": 5,
+    "transport_mode": "train",
+    "overnight_travel": false,
+    "accommodation_has_wifi": true
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "interests": ["beaches", "nightlife", "adventure", "relaxation"],
+    "return_transport_per_person_inr": 10000,
+    "accommodation_per_person_per_night_inr": 1800,
+    "food_per_person_per_day_inr": 1000,
+    "activities_per_person_per_day_inr": 800,
+    "travel_hours_each_way": 5,
+    "transport_mode": "flight",
+    "overnight_travel": false,
+    "accommodation_has_wifi": true
+  }
+]
